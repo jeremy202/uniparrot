@@ -1,7 +1,7 @@
 ---
 title: "NUC CONDEMNS INCESSANT ASUU STRIKE."
 date: 2022-07-18T18:14:22+01:00
-draft: true
+# draft: true
 # coverImage: /img/stress_student.jpg
 thumbnailImage: /img/asuu_strike.jpeg 
 thumbnailImagePosition: top
